@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patientCase xmlns="https://www.w3schools.com" xsi:schemaLocation="https://www.w3schools.com schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <patientId>41023<patientId>
+  <patientFirstName>Liz<patientFirstName>
+  <patientLastName>Erd<patientLastName>
+  <revisionNumber>-5096</revisionNumber>
+  <patientDOB>1980-12-02T00:00:00.000<patientDOB>
+  <patientGender>Female<patientGender>
+  <patientDoctorName>Addie Minstra<patientDoctorName>
+  <lastEditedBy>1991-01-30T00:00:00.000</lastEditedBy>
+  <timeOfLastEdit>2019-02-19T11:54:58Z</timeOfLastEdit>
+
+  <meshes>
+    <mesh>
+      <meshName>string</meshName>
+      <fileType>string</fileType>
+      <author>string</author>
+      <timeOfAddition>string</timeOfAddition>
+      <revisionNumber>-2889</revisionNumber>
+      <rawData>YTM0NZomIzI2OTsmIzM0NTueYQ==</rawData>
+    </mesh>
+  </meshes>
+
+  <keyword>string</keyword>
+  <keyword>string</keyword>
+  <keyword>string</keyword>
+  <keyword>string</keyword>
+
+  <annotations>
+    <annotation>
+      <author>string</author>
+      <timeOfEdit>string</timeOfEdit>
+      <revisionNumber>7554</revisionNumber>
+      <annotationData>string</annotationData>
+    </annotation>
+  </annotations>
+</patientCase>
